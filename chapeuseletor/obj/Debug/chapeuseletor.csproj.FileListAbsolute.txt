@@ -1,0 +1,7 @@
+C:\Users\Erika Cris\source\repos\chapeuseletor\chapeuseletor\bin\Debug\chapeuseletor.exe.config
+C:\Users\Erika Cris\source\repos\chapeuseletor\chapeuseletor\bin\Debug\chapeuseletor.exe
+C:\Users\Erika Cris\source\repos\chapeuseletor\chapeuseletor\bin\Debug\chapeuseletor.pdb
+C:\Users\Erika Cris\source\repos\chapeuseletor\chapeuseletor\obj\Debug\chapeuseletor.csproj.AssemblyReference.cache
+C:\Users\Erika Cris\source\repos\chapeuseletor\chapeuseletor\obj\Debug\chapeuseletor.csproj.CoreCompileInputs.cache
+C:\Users\Erika Cris\source\repos\chapeuseletor\chapeuseletor\obj\Debug\chapeuseletor.exe
+C:\Users\Erika Cris\source\repos\chapeuseletor\chapeuseletor\obj\Debug\chapeuseletor.pdb
